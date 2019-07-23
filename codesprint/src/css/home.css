@@ -1,0 +1,57 @@
+.no-padding {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.welcome-text {
+    font-family: courier;
+    color: black;
+    font-weight: bold;
+}
+
+.solo-button {
+    border-radius: 20px;
+    font-family: courier;
+    color: black;
+    font-weight: bold;
+    margin-right: 10px;
+    background-color: #b0e9d8;
+    border-color: #b0e9d8;
+}
+
+.solo-button:hover {
+    background-color: #2d9d7b;
+    border-color: #2d9d7b;
+}
+
+.multi-button {
+    border-radius: 20px;
+    font-family: courier;
+    color: black;
+    font-weight: bold;
+    margin-right: 10px;
+    background-color: #b0e9d8;
+    border-color: #b0e9d8;
+}
+
+.multi-button:hover {
+    background-color: #2d9d7b;
+    border-color: #2d9d7b;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.computer-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.instructions-text {
+    font-family: courier;
+    color: black;
+    font-weight: bold;
+}

@@ -1,0 +1,30 @@
+.theCode {
+    text-align: left !important;
+    white-space: pre;
+}
+
+.completed {
+    font-family: 'Courier New', Courier, monospace;
+    display: inline;
+    background-color: #75c9b0;
+}
+
+.currentChar {
+    font-family: 'Courier New', Courier, monospace;
+    display: inline;
+    font-weight: bold;
+    text-decoration: underline;
+    background-color: #bdebdd;
+    font-size: 120%;
+}
+
+.error {
+    font-family: 'Courier New', Courier, monospace;
+    display: inline;
+    background-color: #ff8882;
+}
+
+.incomplete {
+    font-family: 'Courier New', Courier, monospace;
+    display: inline;
+}
